@@ -1,0 +1,3 @@
+- name: Python
+  percentage: 80
+  color: secondary

@@ -1,0 +1,14 @@
+- title: Cientista de dados, <a href="https://www.meliuz.com.br/">Méliuz</a>, BR
+  from: 2021
+  to: present
+  description: Design e desenvolvimento de novos produtos utilizando algoritmos de machine learning.
+
+- title: Analista de Dados, <a href="https://www.clickbus.com.br/">ClickBus</a>, BR
+  from: 2020
+  to: 2021
+  description: Levantamento de informações dos clientes, recorrência, LTV, propensão de recompra a partir dos dados armazenados utilizando a linguagem SQL e levantamento de dados de buscas utilizando Google Analytics. Organização e apresentação de resultados dos estudos de dados para a gerência. Desenvolvimento de pipeline de dados utilizando PySpark. Suporte no desenvolvimento de um produto baseado em dados.
+
+- title: Analista de Business Intelligence, <a href="https://br.nttdata.com/">NTT DATA</a>, BR
+  from: 2018
+  to: 2020
+  description: Migração de relatórios da ferramenta SAP BusinessObjects para MicroStrategy, entendimento dos dados para o desenvolvimento dos relatórios e dashboards. Desenvolvimento de extração, transformação e carga (ETL) na ferramenta Informatica PowerCenter, aplicando regras de negócios nos dados originais para a geração de informação consistente e verdadeira. Ajudando a equipe na criação da documentação dos processos desenvolvidos, melhorando a futura manutenção dos processos. Desenvolvimento de relatório e dashboards com Power BI, afim de expor a melhor visão dos dados com a visualização dos indicadores para os tomadores de decisão. Desenvolvimento e arquitetura de processos de ETL aplicando as regras de negócios, com a ferramenta Talend, no processo de carga com intuito de organizar os dados para que assim seja possível extrair informações valiosas sobre o negócio. Manipulação e programação na linguagem SQL, desenvolvimento de processos onde o foco é trazer os dados de diferentes tabelas, para a visualização dos dados. Criação de dashboards por meio da linguagem SQL na ferramenta Grafana, de acordo com a necessidade do cliente, com os indicadores de performance implantados.
